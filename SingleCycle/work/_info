@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/ecegrid/a/mg201/ece437/ECE437/SingleCycle
+valu
+Z1 DXx6 sv_std 3 std 0 22 >9az<^>2ff9DAl3OFGaAf1
+Z2 DXx4 work 13 cpu_types_pkg 0 22 k??[f4Q8aGgN`jlP1?iHS1
+DXx4 work 11 alu_sv_unit 0 22 P1azf7[7[;J8T_5C?3M3:2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 zMLz]j7`_8K2Icc==bZGX1
+IAj_4PZdRbifl3ANSc6h`W1
+Z4 !s105 alu_sv_unit
+S1
+R0
+Z5 w1644443015
+Z6 8source/alu.sv
+Z7 Fsource/alu.sv
+L0 5
+Z8 OE;L;10.7a;67
+31
+Z9 !s108 1644604205.000000
+!s107 include/cpu_types_pkg.vh|include/alu_if.vh|source/alu.sv|
+Z10 !s90 +acc|-sv12compat|-mfcu|-lint|+incdir+include|-suppress|12110|source/alu.sv|
+!i113 0
+Z11 o-suppress 12110 +acc -sv12compat -mfcu -lint -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 !s92 -suppress 12110 +acc -sv12compat -mfcu -lint +incdir+include -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 tCvgOpt 0
+Yalu_if
+R1
+R2
+Z14 !s110 1644604205
+!i10b 1
+!s100 fK:KE?4ezJNb9WL2CdLJ?1
+IOAJzBa3NZQVF42VAZk2LU0
+R3
+R4
+S1
+R0
+R5
+8include/alu_if.vh
+Z15 Finclude/alu_if.vh
+L0 4
+R8
+r1
+!s85 0
+31
+R9
+Z16 !s107 include/cpu_types_pkg.vh|include/alu_if.vh|source/alu.sv|
+R10
+!i113 0
+R11
+R12
+R13
+Xalu_sv_unit
+R1
+R2
+VP1azf7[7[;J8T_5C?3M3:2
+r1
+!s85 0
+31
+!i10b 1
+!s100 e`RDB^23IIk5@0eZzAAz82
+IP1azf7[7[;J8T_5C?3M3:2
+!i103 1
+S1
+R0
+R5
+R6
+R7
+R15
+Z17 Finclude/cpu_types_pkg.vh
+L0 3
+R8
+31
+R9
+R16
+R10
+!i113 0
+R11
+R12
+R13
+Xcpu_types_pkg
+R1
+R14
+!i10b 1
+!s100 fDM_GjeVN]?<a[[;MTMEX3
+Ik??[f4Q8aGgN`jlP1?iHS1
+Vk??[f4Q8aGgN`jlP1?iHS1
+S1
+R0
+R5
+8include/cpu_types_pkg.vh
+R17
+L0 15
+R8
+r1
+!s85 0
+31
+R9
+R16
+R10
+!i113 0
+R11
+R12
+R13

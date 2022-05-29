@@ -1,0 +1,1 @@
+program_counter_tb: cpu_types_pkg.vho program_counter.svo program_counter_if.vho program_counter_tb.svo
